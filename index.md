@@ -21,6 +21,6 @@ git push
 ```
 ### Links
 Here is a link to my [LinkedIn](https://linkedin.com/in/minjoo-o), if you'd like to connect with me.
-As I mentioned in my [introduction](#Introduction), I am passionate about programming! What is my favorite programming language, you may ask? Well, you can learn about it in this README.md file.
+As I mentioned in my [introduction](#Introduction), I am passionate about programming! What is my favorite programming language, you may ask? Well, you can learn about it in this [README.md](README.md) file.
 
 
