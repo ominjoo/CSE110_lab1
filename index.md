@@ -9,7 +9,7 @@ Hello! My name is **Minjoo O**, and I'm a second year <ins>Computer Science</ins
 One of the quotes I live by as a student is:
 > Start early, start often
 
-I rarely procastinate!
+I rarely procastinate! I like to get things done <sup>relatively</sup> early.
 
 ### Git Commands
 Here are some Git commands I've used for this lab:
