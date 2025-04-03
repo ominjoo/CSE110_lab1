@@ -57,7 +57,7 @@ These are the core CSE classes we must take:
 
 As you can see, CSE 110 is the last core CSE class I must take, and I am so excited to learn a lot from this course!
 
-[cute happy penguin cartoon](https://github.com/user-attachments/files/19581032/cute-happy-penguin-cartoon-icon-illustration-animal-nature-icon-concept-isolated-flat-cartoon-style.zip)
+![cute happy penguin cartoon](https://github.com/user-attachments/files/19581032/cute-happy-penguin-cartoon-icon-illustration-animal-nature-icon-concept-isolated-flat-cartoon-style.zip)
 
 ## Thank you for viewing my Page!
 
