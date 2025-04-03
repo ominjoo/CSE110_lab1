@@ -43,5 +43,19 @@ Some things I would get out of this class are:
 - Surviving and crushing interviews or code reviews!
 - Learn how a software engineer thinks and works like
 
+### Tasks
+These are the core CSE classes we must take:
+- [x] CSE 11
+- [x] CSE 12
+- [x] CSE 15L
+- [x] CSE 20
+- [x] CSE 21
+- [x] CSE 30
+- [x] CSE 100
+- [x] CSE 101
+- [ ] CSE 110
+
+As you can see, CSE 110 is my last core CSE class, and I am so excited to learn a lot from this course!
+
 
 
