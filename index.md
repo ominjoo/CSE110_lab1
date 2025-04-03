@@ -55,7 +55,7 @@ These are the core CSE classes we must take:
 - [x] CSE 101
 - [ ] CSE 110
 
-As you can see, CSE 110 is my last core CSE class, and I am so excited to learn a lot from this course!
+As you can see, CSE 110 is the last core CSE class I must take, and I am so excited to learn a lot from this course!
 
 
 
